@@ -5,9 +5,11 @@ Coding test practices(solutions) for samsung SW expert test
 Each python file starts with a url for the problem at Baekjoon.
 
 ## Coding Style
-Class Names: Upper camel case
+Class Names: UpperCamelCase
 
-Method names: Lower camel case
+Method names: lowerCamelCase
 
-Others: Lowercase separated by underscores
+Constants: CAPITALS_SEPARATED_BY_UNDERSCORES
+
+Others: lowercase_separated_by_underscores
 
